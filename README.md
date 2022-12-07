@@ -1,4 +1,4 @@
-# 
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Object-Mocap/Object-Mocap.github.io/blob/main/Understanding%20Activity.jpg?raw=true">
@@ -13,4 +13,15 @@ Outlined below is a process for creating a collaboratively built “collage” m
 
 The motion capture (.bvh) data can come from one of several sources: Pre-recorded motion captures done with a set-up such as the OptiTrack system; AI generated motion; Live motion captures; etc. 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Object-Mocap/Object-Mocap.github.io/blob/main/rehearsal.jpg?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Object-Mocap/Object-Mocap.github.io/blob/main/rehearsal.jpg?raw=true">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/Object-Mocap/Object-Mocap.github.io/blob/main/rehearsal.jpg?raw=true">
+</picture>
+
+
 The data is input into a website (currently in development) where it can be played out on an armature that is primed for collaborative building (collaging). By this we mean that the armature is a blank template for objects to replace its bone structures, e.g. a traffic cone for a leg. 
+
+The 3D assets used to collage the armature can either be pre-made, or custom built. The website will host an archive of ready-to-use 3D assets, or users can choose to upload their own.
+
+The final product is exported as an .fbx file or as an animated movie. There could be an option to add simple backgrounds and lighting effects. 
